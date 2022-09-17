@@ -1,0 +1,20 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  img{
+    width: 300px;
+  }
+  h1{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-display:inherit;
+    color:green;
+  }
+  
+  h2{
+  color:brown;
+    
+  }
+  body{
+    background-color:lightyellow;
+  }
